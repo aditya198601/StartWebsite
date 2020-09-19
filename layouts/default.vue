@@ -16,7 +16,7 @@
     
     <!-- Footer -->
     <v-footer color="indigo" app>
-      <span class="white--text">&copy; {{ new Date().getFullYear() }}</span>
+      <span>&copy; {{ new Date().getFullYear() }}</span>
     </v-footer>
 
   </v-app>
@@ -32,7 +32,7 @@ export default {}
   }
 
    #inspire {
-    background-color:white;
+    background-color:wheat;
     color: black;
   }
 </style>
