@@ -32,7 +32,7 @@ export default {}
   }
 
    #inspire {
-    background-color:wheat;
+    background-color: blue;
     color: black;
   }
 </style>
